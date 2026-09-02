@@ -34,8 +34,3 @@
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laverne816&show_icons=true&theme=dark&hide_border=true" alt="Laverne's GitHub Stats" />
-</p>
