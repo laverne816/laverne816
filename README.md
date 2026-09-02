@@ -1,13 +1,13 @@
-# 👋 Hey there! I'm Laverne — welcome to my digital workshop 🚀
+# ✨ Hey there! I'm Laverne — welcome to my digital workshop 🌸
 
 **Web Developer & UI/UX Designer** crafting intuitive, human-centered digital experiences. I bridge the gap between aesthetic design systems and scalable frontend code.
 
 ---
 
-### 🎨 What I Do
-* 🖌️ **UI/UX Design**: Prototyping, user research, design systems, and responsive interface design.
+### 🌷 What I Do
+* 🎀 **UI/UX Design**: Prototyping, user research, design systems, and responsive interface design.
 * 💻 **Web Development**: Building fast, accessible, and dynamic web applications with React, TypeScript, and modern CSS.
-* 🤖 **AI & Creative Systems**: Crafting intelligent workflows and user interfaces for AI-driven tools.
+* 💫 **AI & Creative Systems**: Crafting intelligent workflows and user interfaces for AI-driven tools.
 
 ---
 
@@ -15,7 +15,7 @@
 
 **Design & Prototyping**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-00C7B7?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-FF69B4?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Development & Tools**
@@ -26,11 +26,10 @@
 
 ---
 
-### 🚀 Featured Projects
+### 💖 Featured Projects
 
-* **[RoamRate](./)** – An AI-powered travel & review platform using sentiment analysis and text classification to deliver actionable travel insights.
-* **[Versa](./)** – A multi-channel creative system designed to streamline asset generation across image, email, and code within a unified interface.
-* **[taskmaster-ai](./)** – Intelligent task management and workflow automation platform built with TypeScript.
+* 🌸 **[RoamRate](./)** – An AI-powered travel & review platform using sentiment analysis and text classification to deliver actionable travel insights.
+* ✨ **[Versa](./)** – A multi-channel creative system designed to streamline asset generation across image, email, and code within a unified interface.
+* 🌷 **[taskmaster-ai](./)** – Intelligent task management and workflow automation platform built with TypeScript.
 
 ---
-
