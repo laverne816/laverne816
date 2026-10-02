@@ -1,4 +1,4 @@
-# Hey there! I'm Laverne. Welcome to my digital workshop 🌸
+# Hey there! I'm Laverne. Welcome to my digital workshop
 
 **Web Developer & UI/UX Designer** crafting intuitive, human-centered digital experiences. I bridge the gap between aesthetic design systems and scalable frontend code.
 
