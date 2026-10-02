@@ -4,14 +4,14 @@
 
 ---
 
-### 🌷 What I Do
-* 🎀 **UI/UX Design**: Prototyping, user research, design systems, and responsive interface design.
-* 💻 **Web Development**: Building fast, accessible, and dynamic web applications with React, TypeScript, and modern CSS.
-* 💫 **AI & Creative Systems**: Crafting intelligent workflows and user interfaces for AI-driven tools.
+### What I Do
+*  **UI/UX Design**: Prototyping, user research, design systems, and responsive interface design.
+*  **Web Development**: Building fast, accessible, and dynamic web applications with React, TypeScript, and modern CSS.
+*  **AI & Creative Systems**: Crafting intelligent workflows and user interfaces for AI-driven tools.
 
 ---
 
-### 🛠️ Tech & Design Stack
+###  Tech & Design Stack
 
 **Design & Prototyping**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -26,10 +26,10 @@
 
 ---
 
-### 💖 Featured Projects
+###  Featured Projects
 
-* 🌸 **[RoamRate](./)** – An AI-powered travel & review platform using sentiment analysis and text classification to deliver actionable travel insights.
-* ✨ **[Versa](./)** – A multi-channel creative system designed to streamline asset generation across image, email, and code within a unified interface.
-* 🌷 **[taskmaster-ai](./)** – Intelligent task management and workflow automation platform built with TypeScript.
+*  **[RoamRate](./)** – An AI-powered travel & review platform using sentiment analysis and text classification to deliver actionable travel insights.
+*  **[Versa](./)** – A multi-channel creative system designed to streamline asset generation across image, email, and code within a unified interface.
+*  **[taskmaster-ai](./)** – Intelligent task management and workflow automation platform built with TypeScript.
 
 ---
